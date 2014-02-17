@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<cart id="santhosh">
+  <item code="CS001">
+    <price>
+     100 
+    </price>
+    <qty>
+      2    
+    </qty>
+  </item>
+  <item code="CS002">
+    <price>
+     200 
+    </price>
+    <qty>
+      5    
+    </qty>
+  </item>
+  <item code="CS003">
+    <price>
+     500 
+    </price>
+    <qty>
+      3    
+    </qty>
+  </item>
+  <item code="CS004">
+    <price>
+     150
+    </price>
+    <qty>
+      5    
+    </qty>
+  </item>
+</cart>

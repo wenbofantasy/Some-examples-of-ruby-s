@@ -1,0 +1,10 @@
+<cart id="userid">
+  <item code="item-id">
+    <price>
+      <price/unit>
+      </price>
+      <qty>
+        <number-of-units>
+        </qty>
+      </item>
+    </cart>
